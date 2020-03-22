@@ -355,6 +355,10 @@ a:hover {
   src: url('../fonts/jola-regular.ttf');
 }
 
+#PandaOS-blue {
+  color: #1782ED;
+}
+
 .page-header {
   color: #fff;
   text-align: center;
